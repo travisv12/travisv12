@@ -14,6 +14,7 @@
 🌱 **I’m learning:** Full-Stack Development (MERN) and Advanced Data Analysis  
 👨‍💻 **All of my projects are available at:** [GitHub Profile](https://github.com/travisv12)  
 📫 **How to reach me:** [LinkedIn](https://www.linkedin.com/in/travis-trung-vu-80b252293)
+
 ⚡ **Fun fact:** I enjoy optimizing databases, but my own desktop is a mess of random files!" 🗂️😂
 
 ---

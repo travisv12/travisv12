@@ -20,7 +20,7 @@
 
 ## 🤝 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/travis-trung-vu-80b252293/)
-[![Email](https://img.shields.io/badge/Email-trungvu1279@gmail.com-red?style=flat-square&logo=gmail)](mailto:trungvu1279@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:trungvu1279@gmail.com)  
 
 ---
 

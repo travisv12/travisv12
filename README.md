@@ -62,25 +62,10 @@ _A book reservation system with enhanced user experience, developed with Java, J
 ---
 
 ## 📊 GitHub Stats  
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=travisv12&show_icons=true&theme=dark)  
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=travisv12&show_icons=true&theme=transparent)  
 
 ## 🔝 Most Used Languages  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=travisv12&layout=compact&theme=dark)
-
-![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=travisv12&theme=radical&hide_border=true)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=travisv12&show_icons=true&theme=transparent)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=travisv12&show_icons=true&theme=graywhite)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=travisv12&layout=pie&theme=dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=travisv12&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Contributions](https://github-readme-activity-graph.vercel.app/graph?username=travisv12&theme=react-dark)
-
-![Contribution Stats](https://github-contributor-stats.vercel.app/api?username=travisv12&theme=dark)
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=travisv12&layout=compact&theme=transparent)
 
 ---
 

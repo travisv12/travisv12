@@ -1,5 +1,3 @@
-<img src="YOUR_IMAGE_URL" width="150px" align="right"/>
-
 # Hi 👋, I'm Travis
 
 🎓 **2nd-year Information Technology student** at Metropolia UAS  
@@ -21,7 +19,7 @@
 ---
 
 ## 🤝 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Travis-Vu-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/travis-trung-vu-80b252293/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/travis-trung-vu-80b252293/)
 [![Email](https://img.shields.io/badge/Email-trungvu1279@gmail.com-red?style=flat-square&logo=gmail)](mailto:trungvu1279@gmail.com)
 
 ---
@@ -29,31 +27,16 @@
 ## 🛠️ Languages & Tools  
 
 ### **Programming Languages:**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)  
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)  ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)  
 
 ### **Cloud & IT Platforms:**  
-![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=flat&logo=microsoft-azure&logoColor=white)  
-![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=flat&logo=sap&logoColor=white)  
-![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=flat&logo=salesforce&logoColor=white)  
+![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=flat&logo=microsoft-azure&logoColor=white)  ![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=flat&logo=sap&logoColor=white)  ![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=flat&logo=salesforce&logoColor=white)  
 
 ### **Frameworks & Tools:**  
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)  
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)  
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white)  
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)  ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)  ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white)  
 
 ### **Data Analysis & Testing:**  
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=power-bi&logoColor=black)  
-![numpy](https://img.shields.io/badge/numpy-013243?style=flat&logo=numpy&logoColor=white)  
-![matplotlib](https://img.shields.io/badge/matplotlib-00599C?style=flat&logo=python&logoColor=white)  
-![Playwright](https://img.shields.io/badge/Playwright-2E2E2E?style=flat&logo=microsoft&logoColor=white)  
-![JUnit](https://img.shields.io/badge/JUnit-25A162?style=flat&logo=java&logoColor=white)  
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=power-bi&logoColor=black)  ![numpy](https://img.shields.io/badge/numpy-013243?style=flat&logo=numpy&logoColor=white)  ![matplotlib](https://img.shields.io/badge/matplotlib-00599C?style=flat&logo=python&logoColor=white)  ![Playwright](https://img.shields.io/badge/Playwright-2E2E2E?style=flat&logo=microsoft&logoColor=white)  ![JUnit](https://img.shields.io/badge/JUnit-25A162?style=flat&logo=java&logoColor=white)  
 
 ---
 

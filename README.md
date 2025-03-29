@@ -47,7 +47,7 @@
 _A full-stack web app that suggests recipes and showcases near-expiry food from local stores._  
 _Technologies used: React, Node.js, Redux, MongoDB, BCrypt.js, JWT._  
 
-### **📌 [Flight Hero](https://github.com/travisv12/Flight_game_website)**  
+### **📌 [Flight Hero](https://github.com/MahnoorFatima02/Flight_game_website)**  
 _A web-based interactive game built with JavaScript, Python, HTML, CSS, and MariaDB._  
 
 ### **📌 [Smart Heart](https://github.com/travisv12/SmartHeart)**  

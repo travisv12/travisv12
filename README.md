@@ -65,7 +65,7 @@ _A book reservation system with enhanced user experience, developed with Java, J
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=travisv12&show_icons=true&theme=transparent)  
 
 ## 🔝 Most Used Languages  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=travisv12&layout=compact&theme=transparent)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=travisv12&layout=compact&theme=transparent&cache_seconds=10)
 
 ---
 
